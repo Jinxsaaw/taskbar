@@ -1,4 +1,4 @@
-#Fixing Taskbar lag or issues
+# Fixing Taskbar lag or issues
 
 If your taskbar is lagging or have a slow taskbar load then this short snippet is one of the ways of helping you with it.
 
